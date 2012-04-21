@@ -5,5 +5,8 @@ The PHP Validation script is a set of validation rules which lets you add server
 See the documentation for more info:
 http://www.benjaminkeen.com/software/php_validation/
 
+For the javascript version, see the RSV library here:
+https://github.com/benkeen/rsv/
+
 - Ben Keen
 @vancouverben
