@@ -1,0 +1,9 @@
+Version 2.3.3
+
+The PHP Validation script is a set of validation rules which lets you add server-side validation to your forms quickly and with as little effort as possible. I wrote it to work as the server-side version of my RSV validation library; both employ exactly the same logic and validation rules, so you can simply copy and paste the validation rules from one to the other - which really cuts down on dev time.
+
+See the documentation for more info:
+http://www.benjaminkeen.com/software/php_validation/
+
+- Ben Keen
+@vancouverben
